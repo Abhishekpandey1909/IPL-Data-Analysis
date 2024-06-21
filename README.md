@@ -11,3 +11,14 @@ analyze the data.<br/>
 • Employed bar charts, pie charts, and other visualization techniques to
 extract critical insights into player performance and team
 performance across seasons.<br/> 
+
+
+Objectives:
+To find the team that won the most number of matches in a season.<br/>
+To find the team that lost the most number of matches in a season.<br/>
+Does winning toss increases the chances of victory.<br/>
+To find the player with the most player of the match awards.<br/>
+To find the city that hosted the maximum number of IPL matches.<br/>
+To find the most winning team for each season.<br/>
+To find the on-field umpire with the maximum number of IPL matches.<br/>
+To find the biggest victories in IPL while defending a total and while chasing a total.<br/>

@@ -13,7 +13,7 @@ extract critical insights into player performance and team
 performance across seasons.<br/> 
 
 
-Objectives:
+**Objectives:**<br/>
 To find the team that won the most number of matches in a season.<br/>
 To find the team that lost the most number of matches in a season.<br/>
 Does winning toss increases the chances of victory.<br/>
